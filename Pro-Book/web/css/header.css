@@ -1,0 +1,81 @@
+.flex-container-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #00B1EC;
+    padding: 0;
+    flex-wrap: wrap;
+    height: 60px;
+}
+
+
+
+.logoName {
+    font-family: sans-serif;
+    font-size: 40px;
+    
+    flex-wrap: wrap;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.turn-off-button {
+    width: 30px;
+    align-self: center;
+}
+
+.flex-item-header {
+    margin:0;
+    padding: 0;
+    display: flex;
+}
+
+.flex-item-header > div {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.flex-item-header > a {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.flex-item-center {
+    align-self: center;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+.flex-container-menu {
+    
+    display: flex;
+    align-items: stretch;
+    background-color: #0392CC;
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.flex-container-menu > div {
+    background-color: #0392CC;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+}
+
+.flex-container-menu > div:hover {
+    background-color: #F16303;
+}
+
+.flex-1 {
+    flex:1;
+}
+
+.left-right-border {
+    border-style: solid;
+    border-color: black;
+    border-left-width: 0.5px;
+    border-right-width: 0.5px;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}

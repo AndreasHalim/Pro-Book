@@ -1,0 +1,46 @@
+.flex-history-item {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: stretch;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.flex-history-item > div {
+    height: 200px;
+}
+
+.history-image-item {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+#label-history {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    font-family: 'Nunito Bold', sans-serif;
+}
+
+#label-history-div {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+#right-most-column-history-item {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: space-between;
+}
+
+
+.title-item-history {
+    font-family: 'Nunito Semi Bold', sans-serif !important;
+    line-height: 40px;
+}
+/* flex-container add-flex-direction-column align-content-space-between flex-1 */

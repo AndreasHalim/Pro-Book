@@ -1,0 +1,58 @@
+.book-detail {
+    margin-block-end: 50px;
+}
+
+.textarea-comment {
+    width: 100%;
+    font-size: 28px;
+    font-family: 'Nunito', sans-serif;
+    padding: 5px;
+    resize: none;
+}
+
+.warning-empty-input {
+    display: none;
+}
+
+#rating-area {
+    text-align: center;
+}
+
+.comment-bar {
+    margin-block-end: 50px;
+    width: 100%;
+}
+
+.fivestar-rating {
+    max-width: 90px;
+    max-height: 90px;
+    cursor: pointer;
+}
+
+.rating-pict {
+    align-items: center;
+    text-align: center;
+    margin-block-end: 40px;
+}
+
+.submit-button, .back-button {
+    padding: 2px 30px;
+    border-radius: 8px;
+    font-size: 28px;
+    height: 45px;
+}
+
+.submit-button {
+    float: right;
+    color: white;
+    background-color: rgb(9, 136, 196);
+}
+
+.back-button {
+    border: 2px solid #F16303; /* Green */
+    color: #F16303;
+}
+
+.submit-button:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}

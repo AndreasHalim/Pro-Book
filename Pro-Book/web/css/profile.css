@@ -1,0 +1,63 @@
+.flex-profile-header {
+    display: flex;
+    padding: 0;
+    align-items: stretch;
+}
+
+.flex-profile-header > div {
+    background-color: #0E354F;
+    color: white;
+    width: 100px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;            
+}
+
+.flex-profile-header > a {
+    background-color: #0E354F;
+    color: white;
+    width: 100px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.profile-photo {
+    border-radius: 50%;
+    border: 7px yellow solid;
+    width: 150px;
+    height: 150px;
+}
+
+#edit-profile-button {
+    width: 50px;
+    align-self: flex-start !important;
+    justify-content: center !important;
+    margin: 15px;
+}
+
+#my-profile-label-div {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#label-text-my-profile {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    font-family: 'Nunito Bold', sans-serif;
+}
+#profile-data-table {
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.icon-profile {
+    width: 20px;
+    margin-right: 10px;
+}
+
+#username {
+    font-family: 'Nunito', sans-serif !important;
+}

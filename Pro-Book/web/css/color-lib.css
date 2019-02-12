@@ -1,0 +1,33 @@
+.yellow-text {
+    color: yellow;
+}
+
+.white-text {
+    color: white;
+}
+
+.orange-text {
+    color: #F16303 !important;
+}
+
+.gray-text {
+    color: #4D4D4D !important;
+}
+
+.orange-background {
+    background-color: #F16303 !important;
+}
+
+.light-blue {
+    color: #fff!important;
+    background-color: #00B1EC !important;
+}
+
+.add-border-gray {
+    border: 2px solid #888888!important
+}
+
+.red-theme {
+    color: #fff!important;
+    background-color: #f44336!important
+}

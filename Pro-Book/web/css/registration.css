@@ -1,0 +1,30 @@
+table {
+    text-align: right;
+}
+
+td {
+    vertical-align:top;
+    padding: 3px 3px;
+}
+
+#validate_form, #validate_username, #validate_email {
+    float: left;
+    margin-right: 5px;
+}
+
+#validate_username {
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.form-input textarea {
+    width: 100%;
+}
+
+.form-input input {
+    width: 100%;
+}
+
+a {
+    color: #000000;
+}

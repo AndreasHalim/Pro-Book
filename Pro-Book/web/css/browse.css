@@ -1,0 +1,26 @@
+.flex-container-search-form {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 80px;
+}
+
+.search-box-text {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Nunito Bold', sans-serif;
+}
+
+.margin-top-bottom-10 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#inputSearch {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+#submit-button {
+    padding: 4px 48px !important;
+}

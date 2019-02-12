@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+    <S:Body>
+        <ns2:getRekomendasiResponse xmlns:ns2="http://jaxws.probook.com/">
+            <return>
+                <jumlahBuku>10</jumlahBuku>
+                <buku>
+                    <idBuku>dFJdd1wFSDIC</idBuku>
+                    <judul>Conceptualizing Music</judul>
+                    <isForSale>false</isForSale>
+                    <pengarang>Lawrence M. Zbikowski</pengarang>
+                    <deskripsi>The play of concepts and conceptual structures typical of music theory is thus not something remote from our appreciation of music, but is instead basic to it."--Jacket.</deskripsi>
+                    <kategori>Music</kategori>
+                    <harga>0</harga>
+                    <mataUang></mataUang>
+                    <gambar>http://books.google.com/books/content?id=dFJdd1wFSDIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>A0u8v5GxiogC</idBuku>
+                    <judul>Educating Music Teachers for the 21st Century</judul>
+                    <isForSale>true</isForSale>
+                    <pengarang>J.L. Aróstegui</pengarang>
+                    <deskripsi>Educating Music Teachers for the 21st Century discusses a range of teacher education programmes in music across Europe and Latin America reflecting about the shifting conditions, causes and factors in which pre-service teachers construct their musical and educational knowledge. It presents seven case studies carried out in Argentina, Brazil, Mexico, Portugal, Spain, and Sweden in order to understand the general and specific elements of new thinking in music education, and the ways these relate to the profound changes all of these countries are experiencing, within the era of cultural globalisation. In this way, this book does not only analyse specific programmes but also seeks to explore a range of issues relating to the education of music teachers that is of interest both to scholars working within music education and music teacher training, and to a wider educational audience of readers interested in such topics as changing youth cultures, globalisation, educational evaluation and teacher education.</deskripsi>
+                    <kategori>Education</kategori>
+                    <harga>763208</harga>
+                    <mataUang>IDR</mataUang>
+                    <gambar>http://books.google.com/books/content?id=A0u8v5GxiogC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>sSxDDQAAQBAJ</idBuku>
+                    <judul>Who's Buying Which Popular Short Fiction Now, &amp; What Are They Paying?</judul>
+                    <isForSale>true</isForSale>
+                    <pengarang>Anne Hart</pengarang>
+                    <deskripsi>Online booksellers are rapidly becoming online publishers. Sell your short fiction or nonfiction to the newest markets. Anyone who publishes your compiled short stories, novels, or nonfiction is looking for more opportunities to market your work. If you have published your stories or nonfiction with a mainstream or print-on-demand publisher, that firm cooperates with online booksellers. They probably want to leverage serial rights opportunities with your short stories, articles, or nonfiction excerpts from your books. After publication, you need to drive people to online booksellers' Web sites and your own to create visibility. The revolution is in virtual book tours and online marketing with booksellers. Another hidden market is short story publishing rights' auctions online to create visibility. You sell your writing as you'd sell a product at one of the online auctions. Long before finding any publisher or after the "face-out shelf life" of your book is over, sell or pre-sell your creations online. Offer short stories or articles to the public for a small fee to download. The music and movie industry do it. So can you. Online booksellers already are famous for a targeted community of readers that buy online. That's only one hint of hidden markets for authors that want to be well-paid for short stories or brief nonfiction. Here's how to write, customize, and market precisely what these merchants want. Here's how to pose the least financial risk to them.</deskripsi>
+                    <kategori>Reference</kategori>
+                    <harga>5392</harga>
+                    <mataUang>IDR</mataUang>
+                    <gambar>http://books.google.com/books/content?id=sSxDDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>f7AwDwAAQBAJ</idBuku>
+                    <judul>The American Musical Landscape</judul>
+                    <isForSale>false</isForSale>
+                    <pengarang>Richard Crawford</pengarang>
+                    <deskripsi>"This book reflects a breakthrough in American music studies, an unrecognized field among traditional musicologists until the past few decades, during which enormous progress has been made in documenting three centuries of American musical activities and figures. Time and effort had to be expended exclusively on the development of basic historical studies. The time has come for a new phase, one that can take a creative, interpretive approach. Professor Crawford's study will introduce this higher level of scholarship into the field of American music studies."—Vivian Perlis, author of Charles Ives Remembered "A major statement by a senior scholar on what American musicology is all about. . . These themes are also topical; they come at a time when much more research is being done in American music, but little thought is being given to the big picture, the vision, the philosophy, and the implications of historical research. Now is the time for a synthesis, and there are few scholars better equipped to do that in American music than Richard Crawford."—Michael Broyles, author of Music of the Highest Class</deskripsi>
+                    <kategori>Music</kategori>
+                    <harga>0</harga>
+                    <mataUang></mataUang>
+                    <gambar>http://books.google.com/books/content?id=f7AwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>kA1seGD-tBMC</idBuku>
+                    <judul>Sourcebook for Research in Music</judul>
+                    <isForSale>false</isForSale>
+                    <pengarang>Phillip Crabtree</pengarang>
+                    <deskripsi>The Sourcebook for Research in Music, in this revised and greatly expanded second edition, is an invaluable guide to the researcher in navigating the vast proliferation of materials in music research. The editors emphasize English-language and recent sources, and also include essential materials in other languages. An opening chapter of introductory materials, including a list of common bibliographical terms with definitions, German and French bibliographical terms, and the plan of the Library of Congress and the Dewey Decimal music classification systems, is followed by seven bibliographical chapters, covering lists of sources as well as collective annotations that introduce and identify specific items. A reference tool containing varied information relating to research in music, the Sourcebook will serve as a classroom text and as a resource for individual music researchers, librarians, faculty members, students, performing and teaching musicians, and musical amateurs.</deskripsi>
+                    <kategori>Music</kategori>
+                    <harga>0</harga>
+                    <mataUang></mataUang>
+                    <gambar>http://books.google.com/books/content?id=kA1seGD-tBMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>Pit6yL_Few4C</idBuku>
+                    <judul>The Pleasure of Modernist Music</judul>
+                    <isForSale>false</isForSale>
+                    <pengarang>Arved Mark Ashby</pengarang>
+                    <deskripsi>An exploration of the meaning of "modernist" music.</deskripsi>
+                    <kategori>Music</kategori>
+                    <harga>0</harga>
+                    <mataUang></mataUang>
+                    <gambar>http://books.google.com/books/content?id=Pit6yL_Few4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>Ek8ssV0pv_IC</idBuku>
+                    <judul>Genre in Popular Music</judul>
+                    <isForSale>false</isForSale>
+                    <pengarang>Fabian Holt</pengarang>
+                    <deskripsi>Through a collection of case studies, the author examines why music categories and music genres are debated, and why the terms used to describe these categories and genres are always changing.</deskripsi>
+                    <kategori>Music</kategori>
+                    <harga>0</harga>
+                    <mataUang></mataUang>
+                    <gambar>http://books.google.com/books/content?id=Ek8ssV0pv_IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>K6jKHTO2dr0C</idBuku>
+                    <judul>Multimedia Mining</judul>
+                    <isForSale>false</isForSale>
+                    <pengarang>Chabane Djeraba</pengarang>
+                    <deskripsi>Multimedia Mining: A Highway to Intelligent Multimedia Documents brings together experts in digital media content analysis, state-of-art data mining and knowledge discovery in multimedia database systems, knowledge engineers and domain experts from diverse applied disciplines. Multimedia documents are ubiquitous and often required, if not essential, in many applications today. This phenomenon has made multimedia documents widespread and extremely large. There are tools for managing and searching within these collections, but the need for tools to extract hidden useful knowledge embedded within multimedia objects is becoming pressing and central for many decision-making applications. The tools needed today are tools for discovering relationships between objects or segments within multimedia document components, such as classifying images based on their content, extracting patterns in sound, categorizing speech and music, and recognizing and tracking objects in video streams.</deskripsi>
+                    <kategori>Computers</kategori>
+                    <harga>0</harga>
+                    <mataUang></mataUang>
+                    <gambar>http://books.google.com/books/content?id=K6jKHTO2dr0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>Nln3xTYQwt4C</idBuku>
+                    <judul>Music and Memory</judul>
+                    <isForSale>false</isForSale>
+                    <pengarang>Bob Snyder</pengarang>
+                    <deskripsi>Divided into two parts, this book shows how human memory influences the organization of music. The first part presents ideas about memory and perception from cognitive psychology and the second part of the book shows how these concepts are exemplified in music.</deskripsi>
+                    <kategori>Music</kategori>
+                    <harga>0</harga>
+                    <mataUang></mataUang>
+                    <gambar>http://books.google.com/books/content?id=Nln3xTYQwt4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+                <buku>
+                    <idBuku>1C_gIK3PWTUC</idBuku>
+                    <judul>Mathematics and Computation in Music</judul>
+                    <isForSale>true</isForSale>
+                    <pengarang>Elaine Chew</pengarang>
+                    <deskripsi>This book constitutes the refereed proceedings of the Second International Conference on Mathematics and Computation in Music, MCM 2009, held in New Haven, CT, USA, in June 2009. The 26 revised full papers presented were carefully reviewed and selected from 38 submissions. The MCM conference is the flagship conference of the Society for Mathematics and Computation in Music. The papers deal with topics within applied mathematics, computational models, mathematical modelling and various further aspects of the theory of music. This year’s conference is dedicated to the honor of John Clough whose research modeled the virtues of collaborative work across the disciplines.</deskripsi>
+                    <kategori>Computers</kategori>
+                    <harga>1536483</harga>
+                    <mataUang>IDR</mataUang>
+                    <gambar>http://books.google.com/books/content?id=1C_gIK3PWTUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</gambar>
+                </buku>
+            </return>
+        </ns2:getRekomendasiResponse>
+    </S:Body>
+</S:Envelope>
